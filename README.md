@@ -1,7 +1,8 @@
 
-# Machine Learning for Unstructured Text Assignment
+# Predicting emotion behind yelp reviews 
 
-This Jupyter Notebook is an in-depth exploration into applying machine learning techniques to analyze and gain insights from unstructured text data. This project is designed to showcase a thorough understanding of natural language processing (NLP) principles, data preprocessing, and model training/testing, making it an excellent piece for potential employers to assess technical expertise in these areas.
+
+This Jupyter Notebook is an in-depth exploration of applying machine learning techniques to analyze and gain insights from unstructured text data. This project is designed to showcase a thorough understanding of natural language processing (NLP) principles, data preprocessing, and model training/testing, making it an excellent piece for potential employers to assess technical expertise in these areas.
 
 ## Project Overview
 
@@ -65,4 +66,3 @@ The notebook concludes with a summary of the findings, model performances, and p
 
 ---
 
-This README is designed to give a clear, engaging introduction to the "Machine Learning for Unstructured Text Assignment" project, demonstrating the depth of analysis and sophistication of the machine learning techniques employed. It is an excellent resource for employers to gauge technical capabilities in data science and machine learning domains.
